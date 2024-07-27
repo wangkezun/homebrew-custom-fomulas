@@ -2,7 +2,7 @@
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 cask "font-sarasa-gothic-sc-ttf" do
-  version "1.0.15"
+  version "1.0.16"
   url "https://github.com/be5invis/Sarasa-Gothic/releases/download/v#{version}/SarasaGothicSC-TTF-#{version}.7z"
   sha256 "d15bef3fe47608868254cf1c781ac0cb7becde0891e9ffb863e2045d5d7b20cc"
   
