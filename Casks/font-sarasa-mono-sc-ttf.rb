@@ -2,9 +2,9 @@
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 cask "font-sarasa-mono-sc-ttf" do
-  version "1.0.16"
+  version "1.0.17"
   url "https://github.com/be5invis/Sarasa-Gothic/releases/download/v#{version}/SarasaMonoSC-TTF-#{version}.7z"
-  sha256 "e81b0a09157d57d81351aebd5c8f0352811ede3a772a0183b70dd012806a3b9f"
+  sha256 "3c5d49215323e3a260d6774c73107e098a7a26694db0aea987688cf87eef89c4"
   
   name "Sarasa Gothic"
   name "更纱黑体"

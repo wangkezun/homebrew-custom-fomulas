@@ -2,15 +2,11 @@
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 cask "font-sarasa-gothic-sc-ttf" do
-  version "1.0.16"
+  version "1.0.17"
   url "https://github.com/be5invis/Sarasa-Gothic/releases/download/v#{version}/SarasaGothicSC-TTF-#{version}.7z"
-  sha256 "12751131b1ce007fe190808a78ce35becb1ea7ad82fc3ad6da335104b2fcfc51"
+  sha256 "70a315afa002305c092f5fc543e4f64bf5080b51aa520d04f00b32ba5f74d93c"
   
-  name "Sarasa Gothic"
   name "更纱黑体"
-  name "更紗黑體"
-  name "更紗ゴシック"
-  name "사라사고딕"
   homepage "https://github.com/be5invis/Sarasa-Gothic"
 
   font "SarasaGothicSC-Bold.ttf"
